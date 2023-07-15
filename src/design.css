@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.par {
+    font-weight: 600;
+    font-family: roboto;
+    margin-top: -5px;
+    margin-bottom: -4px;
+    margin-left: -200px;
+
+}
+
+.par-1 {
+    font-weight: 500;
+    font-size: 26px;
+    font-family: roboto;
+
+
+}
+
+.par-2 {
+    font-size: 10px;
+    font-weight: 100;
+    font-family: roboto;
+    margin-bottom: -4px;
+}
+
+.par-3 {
+    font-weight: 400;
+    font-family: roboto;
+    margin-bottom: -5px;
+    margin-right:4px;
+
+}
+
+.bor {
+    border-style: dotted;
+    width: 100%;
+
+    margin: -5px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.span {
+    font-weight: bold;
+
+}
+
+.parag {
+    padding: 5px;
+}
+
+.row {
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.elipse {
+    background-color: silver;
+    width: 120px;
+    height: 40px;
+    border-radius: 50%;
+
+    color: white;
+    margin: 8px;
+}
+
+.orange-pill {
+    color: black;
+    margin: 15px;
+    height: 35px;
+    width: 120px;
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: yellow;
+    font-family: 'open Sans';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.button {
+    border-radius: 60px;
+    padding-left: 25px;
+    padding-top: 30px;
+    background-color: white;
+
+    padding-bottom: 10px;
+    padding-right: 50px;
+
+    margin: 6px;
+
+
+}
+
+
+.vertical-line {
+    border-left: 1px dotted black;
+    height: 200px;
+}
+
+.bor {
+    border-style: solid;
+    width: 100%;
+    height: 45px;
+
+
+
+}
+
+.par-4 {
+    margin-left: -150px;
+    font-weight: 400;
+    margin-bottom: -1px;
+}
+
+.bot-par {
+    font-size: 10px;
+
+}
+
+.image {
+    height: 150px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.par-5 {
+    font-size: 15px;
+    margin-left: -2px;
+}
+
+.bot-1 {
+    padding-left: 100px;
+}
+
+.bot-par-1 {
+    font-size: 12px;
+}
+
+.image-1 {
+    height: 25px;
+    width: 25px;
+    margin: 5px;
+
+
+}

@@ -1,0 +1,53 @@
+{
+    "Patient": {
+        "name": "John Doe",
+        "DOB": "1990-05-15",
+        "DOE": "2023-07-12",
+        "no_of_desices":2,
+        "objects": [
+            {
+                "medican": {
+                    "type": "TAB",
+                    "name": "Paracetamol",
+                    "image": {
+                        "sideA": "image_url_sideA",
+                        "sideB": "image_url_sideB"
+                    },
+                    "Reason": "Fever"
+                },
+                "direction": {
+                    "no_of_tab": "1",
+                    "times": "3 times a day",
+                    "time_gap": "4-6 hours",
+                    "by": "Oral",
+                    "text": "Take after meals"
+                },
+                "side_effects": ["Nausea", "Headache"],
+                "Help": {}
+            },
+
+
+            {
+                "medicin": {
+                    "type": "TAB",
+                    "name": "Ibuprofen",
+                    "image": {
+                        "sideA": "image_url_sideA",
+                        "sideB": "image_url_sideB"
+                    },
+                    "Reason": "Pain relief"
+                },
+                "direction": {
+                    "no_of_tab": "2",
+                    "times": "2 times a day",
+                    "time_gap": "8 hours",
+                    "by": "Oral",
+                    "text": "Take with food",
+                    "subtext":"sub texts"
+                },
+                "side_effects": ["Stomach upset", "Dizziness"],
+                "Help": "Experiencing itching skin, wheezing, and fast heart rate."
+            }
+        ]
+    }
+}
